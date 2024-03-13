@@ -1,2 +1,2 @@
 # web
-curso em video
+Curso Em Video
