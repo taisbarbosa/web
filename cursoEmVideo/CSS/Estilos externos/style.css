@@ -1,0 +1,10 @@
+@charset
+html
+body{
+    background-color: lightslategrey;
+}
+p{text-align: justify;
+    color: rgb(80, 24, 145);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    h2{background-color: aqua;}

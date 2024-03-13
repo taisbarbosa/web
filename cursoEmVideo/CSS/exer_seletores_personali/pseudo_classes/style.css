@@ -1,0 +1,33 @@
+div{
+    text-align: center;
+    background-color: #a5a5a57c;
+    border: solid 2px black;
+    margin: 2px;
+}
+#info01{
+    display: none;
+}
+#info02{
+    display: none;
+}
+#info03{
+    display: none;
+}
+#btn-1:hover{
+    background-color: rgba(255, 255, 0, 0.473);
+}
+#btn-2:hover{
+    background-color: rgba(255, 255, 0, 0.473);
+}
+#btn-3:hover{
+    background-color: rgba(255, 255, 0, 0.473);
+}
+#btn-1:hover > #info01{
+    display: block;
+}
+#btn-2:hover > #info02{
+    display: block;
+}
+#btn-3:hover > #info03{
+    display: block;
+}
